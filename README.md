@@ -1,6 +1,7 @@
 # Handwriting-Digit-Recognizer
----------------------------------
+
 Handwritten Digit Recognizer using Python
+---------------------------------
 Keras, Numpy, Tkinter, PIL [Python Image Library] & Python
 
 Description:
