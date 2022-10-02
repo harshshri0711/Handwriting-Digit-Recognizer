@@ -16,7 +16,7 @@ Before using this project learn the following
 1. Keras
 2. Numpy
 3. Tkinter
-4. PIL
+4. PIL [Python Image Library]
 
 Instructions:
 ---------------------------------
